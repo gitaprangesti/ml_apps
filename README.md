@@ -1,0 +1,1 @@
+https://prediksiindeksperformaakademik.streamlit.app/
